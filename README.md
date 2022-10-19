@@ -22,7 +22,7 @@ We highly recommend to use a virtual environment to work with the code, as addit
     conda create --name dl_intro python=3.8
     conda activate dl_intro
 
-From there the only packages that are needed are `tensorflow` and `keras` for now and that `jupyter notebooks` can be run. 
+From there the only packages that are needed are `tensorflow` and `keras` for now and that `jupyter notebooks` can be run. Remember the recommendation of using `Google Colab` instead of running it locally. 
 
 # Materials
 
